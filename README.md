@@ -1,4 +1,4 @@
-[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)]
+[![MasterHead](https://sukhbinder.files.wordpress.com/2022/01/snow_banner_o.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Qinyi Liu</h1>
 <h3 align="center">A phd candidate from unversity of bergen</h3>
 
