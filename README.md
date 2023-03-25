@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ql909&label=Profile%20views&color=0e75b6&style=flat" alt="ql909" /> </p>
 
-- 🔭 I’m currently working on **explainable machine learning**
+- 🔭 I’m currently working on **learning analytics, trustworhy AI**
 
 - 🌱 I’m currently learning **trasnfer learning, federated learning, differential privacy**
 
