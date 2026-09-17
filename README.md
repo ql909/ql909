@@ -1,6 +1,6 @@
 [![MasterHead](https://static.wikia.nocookie.net/animal-jam-clans-1/images/1/1c/Made_by_1041uuu.gif/revision/latest?cb=20210406230318)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Qinyi Liu</h1>
-<h3 align="center">A phd candidate from unversity of bergen</h3>
+<h3 align="center">AI for education and Trustworthy AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ql909&label=Profile%20views&color=0e75b6&style=flat" alt="ql909" /> </p>
 
